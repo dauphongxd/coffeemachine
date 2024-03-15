@@ -10,8 +10,8 @@ A simple interactive coffee machine simulator built in Java. This project aims t
 
 ## Usage
 
-- `buy`: buy a coffee (Espresso, Latte, Cappuccino)
-- `fill`: refill the machine's resources
-- `take`: take the money collected from sales
-- `remaining`: check the status of the machine's resources
-- `exit`: exit the program
+- `buy` - buy a coffee (Espresso, Latte, Cappuccino)
+- `fill` - refill the machine's resources
+- `take` - take the money collected from sales
+- `remaining` - check the status of the machine's resources
+- `exit` - exit the program
